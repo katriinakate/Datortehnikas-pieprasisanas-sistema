@@ -3,7 +3,7 @@
 Šī ir sistēma datortehnikas pieprasīšanai. Lietotājs var ievadīt vārdu, uzvārdu, izvēlēties datortehniku un ievadīt pamatojumu, kāpēc nepieciešama datortehnika, kā arī apskatīt visus datubāzē esošos pieteikumus. Pieprasījumi tiek fiksēti MySQL datubāzē.
 
 Izmantotās tehnoloģijas:
-Frontend: React
+Frontend: React (Nepieciešams instalēt vajadzīgās atkarības ar "npm install")
 Backend: Java, Spring Boot
 Datubāze: MySQL
 REST API: Spring Web
